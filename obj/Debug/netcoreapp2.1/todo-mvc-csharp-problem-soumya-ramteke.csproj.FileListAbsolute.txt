@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\bin\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.deps.json
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\bin\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.runtimeconfig.json
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\bin\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\bin\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.dll
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\bin\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.pdb
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\obj\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\obj\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\obj\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.RazorAssemblyInfo.cache
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\obj\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.RazorAssemblyInfo.cs
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\obj\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\obj\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.AssemblyInfo.cs
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\obj\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\obj\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.dll
+C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\obj\Debug\netcoreapp2.1\todo-mvc-csharp-problem-soumya-ramteke.pdb
