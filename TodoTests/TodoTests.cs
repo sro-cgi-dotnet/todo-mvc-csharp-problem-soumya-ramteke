@@ -5,6 +5,8 @@ using Moq;
 using System.Collections.Generic;
 using TodoApi.Models;
 using TodoApi.Controllers;
+using System.Linq;
+using Microsoft.AspNetCore.Mvc;
 
 namespace TodoTests
 {
@@ -49,28 +51,15 @@ namespace TodoTests
                 }
             };
         }
-
         [Fact]
-        public void RetrieveAll_Positive()
+        public void GetAll_Negative_DatabaseError()
         {
-            var noterepo = new Mock<INoteRepository>();
-            List<Note> notes = GetMockDatabase();
-            noterepo.Setup(d => d.RetrieveAllNotes()).Returns(notes);
-            TodoController todoController = new TodoController(noterepo.Object);
+            var datarepo = new Mock<INoteRepository>();
+            List<Note> notes = null;
+            datarepo.Setup(d => d.RetrieveAllNotes()).Returns(notes);
+            TodoController todoController = new TodoController(datarepo.Object);
             var result = todoController.Get();
-            Assert.NotNull(result);
-            Assert.Equal(2 , notes.Count);
-        }
-
-        public void RetrieveAll_Empty_Negative()
-        {
-            var noterepo = new Mock<INoteRepository>();
-            List<Note> notes = new List<Note>();
-            noterepo.Setup(d => d.RetrieveAllNotes()).Returns(notes);
-            TodoController todoController = new TodoController(noterepo.Object);
-            var result = todoController.Get();
-            Assert.NotNull(result);
-           // Assert.Equal(0, result.Value.Count);
+            Assert.IsType<NotFoundObjectResult>(result);
         }
 
         public void RetrieveNote_Id1_Positive()
@@ -84,5 +73,7 @@ namespace TodoTests
             Assert.NotNull(result);
             Assert.Equal(id, result.Value.NoteId);
         }
+
+        
     }
 }

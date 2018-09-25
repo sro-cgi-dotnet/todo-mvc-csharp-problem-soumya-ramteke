@@ -12,3 +12,17 @@ C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\
 C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
 C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
 C:\Users\Administrator\Documents\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\Administrator\pages\todo-mvc-csharp-problem-soumya-ramteke\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
